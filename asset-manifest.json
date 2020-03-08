@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LetterForYou/static/css/main.5f361e03.chunk.css",
+    "main.js": "/LetterForYou/static/js/main.c9ee6422.chunk.js",
+    "main.js.map": "/LetterForYou/static/js/main.c9ee6422.chunk.js.map",
+    "runtime-main.js": "/LetterForYou/static/js/runtime-main.ae810f8b.js",
+    "runtime-main.js.map": "/LetterForYou/static/js/runtime-main.ae810f8b.js.map",
+    "static/js/2.f8384d6e.chunk.js": "/LetterForYou/static/js/2.f8384d6e.chunk.js",
+    "static/js/2.f8384d6e.chunk.js.map": "/LetterForYou/static/js/2.f8384d6e.chunk.js.map",
+    "index.html": "/LetterForYou/index.html",
+    "precache-manifest.a48fc5b3e77eef2b8c280882713c7aad.js": "/LetterForYou/precache-manifest.a48fc5b3e77eef2b8c280882713c7aad.js",
+    "service-worker.js": "/LetterForYou/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/LetterForYou/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f8384d6e.chunk.js.LICENSE.txt": "/LetterForYou/static/js/2.f8384d6e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LetterForYou/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae810f8b.js",
+    "static/js/2.f8384d6e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c9ee6422.chunk.js"
+  ]
+}
