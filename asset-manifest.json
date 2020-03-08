@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LetterForYou/static/css/main.cc5f05d8.chunk.css",
+    "main.css": "/LetterForYou/static/css/main.1dd83509.chunk.css",
     "main.js": "/LetterForYou/static/js/main.4663285a.chunk.js",
     "main.js.map": "/LetterForYou/static/js/main.4663285a.chunk.js.map",
     "runtime-main.js": "/LetterForYou/static/js/runtime-main.ae810f8b.js",
@@ -9,10 +9,10 @@
     "static/js/2.f831212d.chunk.js": "/LetterForYou/static/js/2.f831212d.chunk.js",
     "static/js/2.f831212d.chunk.js.map": "/LetterForYou/static/js/2.f831212d.chunk.js.map",
     "index.html": "/LetterForYou/index.html",
-    "precache-manifest.f7ed4b364c1c98e283d4dd4027685804.js": "/LetterForYou/precache-manifest.f7ed4b364c1c98e283d4dd4027685804.js",
+    "precache-manifest.e4a28b6ade6cac5814ea1881aaea37f9.js": "/LetterForYou/precache-manifest.e4a28b6ade6cac5814ea1881aaea37f9.js",
     "service-worker.js": "/LetterForYou/service-worker.js",
     "static/css/2.9c750508.chunk.css.map": "/LetterForYou/static/css/2.9c750508.chunk.css.map",
-    "static/css/main.cc5f05d8.chunk.css.map": "/LetterForYou/static/css/main.cc5f05d8.chunk.css.map",
+    "static/css/main.1dd83509.chunk.css.map": "/LetterForYou/static/css/main.1dd83509.chunk.css.map",
     "static/js/2.f831212d.chunk.js.LICENSE.txt": "/LetterForYou/static/js/2.f831212d.chunk.js.LICENSE.txt",
     "static/media/gbqq.mp3": "/LetterForYou/static/media/gbqq.21402535.mp3"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.ae810f8b.js",
     "static/css/2.9c750508.chunk.css",
     "static/js/2.f831212d.chunk.js",
-    "static/css/main.cc5f05d8.chunk.css",
+    "static/css/main.1dd83509.chunk.css",
     "static/js/main.4663285a.chunk.js"
   ]
 }

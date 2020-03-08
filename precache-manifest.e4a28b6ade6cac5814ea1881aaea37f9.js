@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf1b2e8e5f8e56501d8e48319542f2ee",
+    "revision": "4861907e7259283de14682b5fad504d1",
     "url": "/LetterForYou/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LetterForYou/static/css/2.9c750508.chunk.css"
   },
   {
-    "revision": "7b5dfc92538938b0bf09",
-    "url": "/LetterForYou/static/css/main.cc5f05d8.chunk.css"
+    "revision": "374f2e5cf094178be844",
+    "url": "/LetterForYou/static/css/main.1dd83509.chunk.css"
   },
   {
     "revision": "39a0e795dc7f781032cf",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LetterForYou/static/js/2.f831212d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b5dfc92538938b0bf09",
+    "revision": "374f2e5cf094178be844",
     "url": "/LetterForYou/static/js/main.4663285a.chunk.js"
   },
   {
